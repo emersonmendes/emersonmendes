@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <div>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=emersonmendes&show_icons=true&theme=transparent"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=emersonmendes&show_icons=true&theme=transparent"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmendes&langs_count=8)](https://github.com/emersonmendes/github-readme-stats)
 
+<div>
+<img height="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmendes&langs_count=8&hide=css,html,scss,vue,gherkin,angular,angularjs,react&show_icons=true&theme=transparent"/>
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
