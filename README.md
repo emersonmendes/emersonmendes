@@ -4,7 +4,7 @@
   <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=emersonmendes&show_icons=true&theme=transparent"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmendes&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmendes&langs_count=8)](https://github.com/emersonmendes/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
