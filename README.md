@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
 <div>
   <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=emersonmendes&show_icons=true&theme=transparent"/>
 </div>
-
 
 <!--
 - 🔭 I’m currently working on ...
