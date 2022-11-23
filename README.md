@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <div>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=emersonmendes&show_icons=true&theme=transparent"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=emersonmendes&show_icons=true&theme=dark"/>
 </div>
 
 
 <div>
-<img height="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmendes&langs_count=8&hide=css,html,scss,vue,gherkin,angular,angularjs,react&show_icons=true&theme=transparent"/>
+<img height="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmendes&langs_count=8&hide=css,html,scss,vue,gherkin,angular,angularjs,react&show_icons=true&theme=dark"/>
 </div>
 <!--
 - 🔭 I’m currently working on ...
