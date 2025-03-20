@@ -67,8 +67,7 @@
 
 <h3 align="left"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/emersonemendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emersonemendes" height="30" width="40" /></a>
-<a href="/https://blog.emersonmendes.com.br/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.emersonmendes.com.br/feeds/posts/default?alt=rss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emersonemendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emersonemendes" height="35" /></a>
 </p>
 
 ###
@@ -79,13 +78,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/emersonmendes/emersonmendes/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/emersonmendes/count.svg?"  />
 </div>
 
