@@ -75,13 +75,14 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emersonmendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="./profile-summary-card-output/dracula/4-most-commit-language.svg" height="150" alt="most commit languages"  />
+  <img src="./profile-summary-card-output/dracula/3-repos-per-language.svg" height="150" alt="repos per language"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/emersonmendes/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=emersonmendes&color=blueviolet" alt="profile views"  />
 </div>
 
 ###
