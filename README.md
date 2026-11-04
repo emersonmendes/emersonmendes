@@ -75,8 +75,8 @@
 ###
 
 <div align="left">
-  <img src="./profile-summary-card-output/dracula/4-most-commit-language.svg" height="150" alt="most commit languages"  />
-  <img src="./profile-summary-card-output/dracula/3-repos-per-language.svg" height="150" alt="repos per language"  />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" height="150" alt="most commit languages"  />
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" height="150" alt="repos per language"  />
 </div>
 
 ###
